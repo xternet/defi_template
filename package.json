@@ -1,7 +1,7 @@
 {
   "name": "defi_template",
   "version": "1.0.0",
-  "description": "protocols interaction template",
+  "description": "Template for interaction with DeFi protocols",
   "author": "github.com/xternet",
   "license": "ISC",
   "dependencies": {
